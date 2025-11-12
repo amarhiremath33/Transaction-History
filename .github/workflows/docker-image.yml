@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      IMAGE_NAME: "amarhiremath33/Transaction-History-Test"
+      IMAGE_NAME: "amarhiremath33/transaction-history-test"
 
     steps:
       - name: Validate tag format
